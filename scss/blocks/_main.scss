@@ -103,6 +103,10 @@
         transition: .9s;
         text-align: center;
       }
+      a.food:hover{
+        color: #54ed39;
+        transform: scale(1.5);
+      }
       a.uber:hover{
         color: #19a8c3;
         transform: scale(1.5);
